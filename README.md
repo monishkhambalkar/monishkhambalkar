@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Monish Khambalkar</h1>
-<h3 align="center">A passionate full stack developer from</h3>
+<h3 align="center">A passionate full stack developer</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/564x/55/39/8b/55398b80d2b3d3e43327a1626013d14e.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=monishkhambalkar&label=Profile%20views&color=0e75b6&style=flat" alt="monishkhambalkar" /> </p>
