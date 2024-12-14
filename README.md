@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Python, System Design**
 
-- 💬 Ask me about **React, Node, JS, PHP, SQL, MongoDB, AWS**
+- 💬 Ask me about **React, Redux, Node, Express, JS, PHP, SQL, MongoDB, AWS, Docker**
 
 - 📫 How to reach me **monishkhambalkar@gmail.com**
 
